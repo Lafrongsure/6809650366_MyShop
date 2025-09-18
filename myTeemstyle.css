@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+body
+{
+    font-family: Kodchasan;
+    margin: 32px;
+    background-image: url(resources/9f22fbf6a89ffc758c8aa813e849e11a.jpg);
+    background-size: cover;
+}
+nav
+{
+    padding: auto;
+    background-color: #eda5b6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo a
+{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    align-items: center;
+}
+.option
+{
+    display: flex;
+    list-style: none;
+}
+.option li
+{
+    margin: 0 5px;
+    background-color: rgb(244, 230, 244);
+    border-radius: 5px;
+
+}
+.option li a
+{
+    color: rgb(6, 0, 0);
+    text-decoration: none;
+}
+.Intro-dora
+{
+    align-items: center;
+    padding: 50px 40px;
+    background-color: #f2b8c6;
+    justify-content: space-between;
+    gap: 50px;
+    display:flex;
+}
+.dora-text
+{
+    width:100%;
+}
+.dora-img img
+{
+    width: 200px;
+    height: 120px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px ;
+    align-items: center;
+}
+.Intro-shin
+{
+    align-items: center;
+    padding: 50px 40px;
+    background-color: #f2b8c6;
+    justify-content: space-between;
+    gap: 50px;
+    display:flex;
+}
+.shin-text
+{
+    width:100%;
+}
+.shin-img img
+{
+    width: 200px;
+    height: 130px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px ;
+    align-items: center;
+}
+.Intro-kero
+{
+    align-items: center;
+    padding: 50px 40px;
+    background-color: #f6d6de;
+    justify-content: space-between;
+    gap: 50px;
+    display:flex;
+}
+.kero-text
+{
+    width:100%;
+}
+.kero-img img
+{
+    width: 200px;
+    height: 130px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px ;
+    align-items: center;
+}
+.Intro-hat
+{
+    align-items: center;
+    padding: 50px 40px;
+    background-color: #f2b8c6;
+    justify-content: space-between;
+    gap: 50px;
+    display:flex;
+}
+.hat-text
+{
+    width:100%;
+}
+.hat-img img
+{
+    width: 200px;
+    height: 120px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px ;
+    align-items: center;
+}
+.Intro-conan
+{
+    align-items: center;
+    padding: 50px 40px;
+    background-color: #f6d6de;
+    justify-content: space-between;
+    gap: 50px;
+    display:flex;
+}
+.conan-text
+{
+    width:100%;
+}
+.conan-img img
+{
+    width: 200px;
+    height: 120px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px ;
+    align-items: center;
+}
+.Intro-nena
+{
+    align-items: center;
+    padding: 50px 40px;
+    background-color: #f2b8c6;
+    justify-content: space-between;
+    gap: 50px;
+    display:flex;
+}
+.nena-text
+{
+    width:100%;
+}
+.nena-img img
+{
+    width: 200px;
+    height: 180px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px ;
+    align-items: center;
+}
