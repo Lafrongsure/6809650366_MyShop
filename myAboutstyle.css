@@ -39,3 +39,117 @@ nav
     color: rgb(6, 0, 0);
     text-decoration: none;
 }
+.Me
+{
+    background-color: #f2b8c6;
+    padding: 50px 40px;
+}
+.Me h1
+{
+    background-color: aliceblue;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 3px 5px;
+}
+.Me img
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px;
+}
+.Me a
+{
+    color: black;
+}
+.Performance
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.Cute
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.Me01
+{
+    background-color:#f6d6de;
+    padding: 50px 40px;
+}
+.Me01 h1
+{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 0 3px 5px;
+}
+.Me01 a
+{
+    color: black;
+}
+.Me01 img
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px;
+}
+.Luxury
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.Me03
+{
+    background-color: #f2b8c6;
+    padding: 50px 40px;
+}
+.Me03 h1
+{
+    background-color: aliceblue;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 3px 5px;
+}
+.Me03 img
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px;
+}
+.Me03 a
+{
+    color: black;
+}
+.Party
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.Funny
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+}
